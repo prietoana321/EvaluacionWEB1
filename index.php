@@ -5,7 +5,7 @@
 //Grupo #1
 
 //Ejercicio 1
-/*
+
 echo("calculadora aritmetica super eficiente");
 
 
@@ -25,7 +25,7 @@ echo("<br>");
 echo("la suma de: ".$primerNumero."*".$segundoNumero."=".$multiplicacion);
 echo("<br>");
 echo("la suma de: ".$primerNumero."/".$segundoNumero."=".$division);
-*/
+
 /*
 //Ejercicio 2
 2. El gimnasio Bodytech, lo contrata para desarrollar una aplicación web que permita a sus usuarios calcular el índice de
